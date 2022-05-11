@@ -3,7 +3,9 @@ package day9.basic;
 import java.util.Scanner;
 
 public class Question10c {
-
+       //Scan Begin
+	
+	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 	    System.out.println("Enter a : ");
