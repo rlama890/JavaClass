@@ -32,3 +32,4 @@ public class ArrayDemo1 {
 }
 
 //array : is a collection of elements of same type arranged in a sequential manner
+
